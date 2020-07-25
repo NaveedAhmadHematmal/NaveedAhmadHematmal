@@ -1,6 +1,6 @@
 # Hey, I'm Naveed Ahmad 👋🏾
 
-<img src="" alt="banner that says Naveed Ahmad Hematmal - software engineer, public speaking passion, AI enthusiast, Tech guy">
+<img src="https://github.com/NaveedAhmadHematmal/NaveedAhmadHematmal/blob/master/gh-header.png" alt="banner that says Naveed Ahmad Hematmal - software engineer, public speaking passion, AI enthusiast, Tech guy">
 I'm a software engineer who is passionate about making open-source more accessible besides public speaking. AI enthusiast and tech guy.
 
 ## Find me around the web 🌎:
