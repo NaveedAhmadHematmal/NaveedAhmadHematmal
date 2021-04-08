@@ -8,8 +8,8 @@ I have two youtube channels, one in the local language (Pashto) and one in Engli
 <p align="left">
 </a>
 <a href="https://dev.to/naveedahmadhematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
-<a href="https://twitter.com/naveedahmadhematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/naveedahmadhematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
+<a href="https://twitter.com/naveedhematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11165327/naveed-hematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naveedahmadhematmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5ddUkXYCa0P98y_YalDbRA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="naveedahmadhematmal" height="30" width="40" /></a>
 
